@@ -1,7 +1,7 @@
-﻿namespace Radiant.NET.Domain.Models;
+﻿namespace Radiant.Domain.Models;
 
 /// <summary>
-/// Represents a page in a Radiant.NET context with a specific page number and size.
+/// Represents a page in a Radiant context with a specific page number and size.
 /// </summary>
 /// <param name="PageNumber">The number of the page, default is 1.</param>
 /// <param name="PageSize">The size of the page, default is 10.</param>

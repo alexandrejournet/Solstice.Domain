@@ -1,3 +1,3 @@
-# Radiant.NET.Domain
+# Radiant.Domain
 
-Partie Domain de Radiant.NET Framework
+Partie Domain de Radiant Framework

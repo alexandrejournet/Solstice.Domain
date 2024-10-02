@@ -1,7 +1,7 @@
-namespace Radiant.NET.Domain.Exceptions;
+namespace Radiant.Domain.Exceptions;
 
 /// <summary>
-/// Represents the possible exceptions that can be thrown by the Radiant.NET.Domain classes.
+/// Represents the possible exceptions that can be thrown by the Radiant.Domain classes.
 /// </summary>
 public enum CoreExceptionEnum
 {

@@ -1,4 +1,4 @@
-﻿namespace Radiant.NET.Domain.Extensions
+﻿namespace Radiant.Domain.Extensions
 {
     public static class IEnumerableExtensions
     {

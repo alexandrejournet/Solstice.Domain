@@ -1,4 +1,4 @@
-﻿namespace Radiant.NET.Domain.Models;
+﻿namespace Radiant.Domain.Models;
 
 /// <summary>
 /// The 'Paged' class provides a simple way to encapsulate a collection of items with a certain count.
