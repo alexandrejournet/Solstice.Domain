@@ -1,4 +1,4 @@
-﻿namespace Radiant.Domain.Models;
+﻿namespace Solstice.Domain.Models;
 
 /// <summary>
 /// Represents a page in a Radiant context with a specific page number and size.

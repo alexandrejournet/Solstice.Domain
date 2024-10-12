@@ -1,3 +1,3 @@
-# Radiant.Domain
+# Solstice.Domain
 
 Partie Domain de Radiant Framework

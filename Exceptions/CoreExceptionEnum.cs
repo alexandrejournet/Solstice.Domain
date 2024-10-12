@@ -1,7 +1,7 @@
-namespace Radiant.Domain.Exceptions;
+namespace Solstice.Domain.Exceptions;
 
 /// <summary>
-/// Represents the possible exceptions that can be thrown by the Radiant.Domain classes.
+/// Represents the possible exceptions that can be thrown by the Solstice.Domain classes.
 /// </summary>
 public enum CoreExceptionEnum
 {

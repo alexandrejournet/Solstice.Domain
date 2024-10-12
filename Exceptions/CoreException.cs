@@ -1,6 +1,6 @@
 using Microsoft.AspNetCore.Http;
 
-namespace Radiant.Domain.Exceptions;
+namespace Solstice.Domain.Exceptions;
 
 /// <summary>
 /// Represents an exception that is thrown when there is an error.

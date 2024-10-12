@@ -1,4 +1,4 @@
-﻿namespace Radiant.Domain.Models;
+﻿namespace Solstice.Domain.Models;
 
 /// <summary>
 /// CoreModel class provides a structure to encapsulate information related

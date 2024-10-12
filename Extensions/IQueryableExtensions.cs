@@ -1,4 +1,4 @@
-﻿namespace Radiant.Domain.Extensions
+﻿namespace Solstice.Domain.Extensions
 {
     public static class IQueryableExtensions
     {

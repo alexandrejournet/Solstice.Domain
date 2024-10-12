@@ -1,4 +1,4 @@
-﻿namespace Radiant.Domain.Models;
+﻿namespace Solstice.Domain.Models;
 
 /// <summary>
 /// The 'Paged' class provides a simple way to encapsulate a collection of items with a certain count.
