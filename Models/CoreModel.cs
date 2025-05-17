@@ -2,13 +2,13 @@
 
 /// <summary>
 /// CoreModel class provides a structure to encapsulate information related
-/// to Radiant functionality in the application. The information mainly includes
-/// id associated to each Radiant transaction or operation.
+/// to Solstice functionality in the application. The information mainly includes
+/// id associated to each Solstice transaction or operation.
 /// </summary>
 public class CoreModel
 {
     /// <summary>
-    /// Gets or sets the unique identifier for the Radiant operation.
+    /// Gets or sets the unique identifier for the Solstice operation.
     /// </summary>
     public int Id { get; set; }
 }

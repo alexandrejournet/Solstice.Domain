@@ -1,7 +1,7 @@
 ﻿namespace Solstice.Domain.Models;
 
 /// <summary>
-/// Represents a page in a Radiant context with a specific page number and size.
+/// Represents a page in a Solstice context with a specific page number and size.
 /// </summary>
 /// <param name="PageNumber">The number of the page, default is 1.</param>
 /// <param name="PageSize">The size of the page, default is 10.</param>
